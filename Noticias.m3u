@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DW Español" tvg-logo="" group-title="NOTICIAS",DW Español
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/5468
+#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-logo="" group-title="NOTICIAS",DW News
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/5661
+#EXTINF:-1 tvg-id="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="NOTICIAS",RT NOTICIAS
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/5662
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL2" tvg-logo="" group-title="NOTICIAS",CNN ESPAÑOL2
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/5663
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA HD" tvg-logo="http://158.69.24.110/posters/1571357582406.jpg" group-title="NOTICIAS",CNN USA HD
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11586
+#EXTINF:-1 tvg-id="" tvg-name="EL FINANCIERO BLOOMBERG HD" tvg-logo="http://158.69.24.110/posters/1503359277501.jpg" group-title="NOTICIAS",EL FINANCIERO BLOOMBERG HD
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11594
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="NOTICIAS",LAT*CNN Internacional
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11885
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="NOTICIAS",LAT*CNNE
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11886
+#EXTINF:-1 tvg-id="" tvg-name="LAT*France24" tvg-logo="" group-title="NOTICIAS",LAT*France24
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11980
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus Live" tvg-logo="" group-title="NOTICIAS",Coronavirus Live
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/13052
+#EXTINF:-1 tvg-id="ADN40Internaluseonly.mx" tvg-name="MEXICO|ADN 40" tvg-logo="https://pbs.twimg.com/profile_images/1037358052553322496/wwU6hW0Z_400x400.jpg" group-title="NOTICIAS",MEXICO|ADN 40
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/221
+#EXTINF:-1 tvg-id="MilenioTelevisin.mx" tvg-name="MEXICO|Milenio TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS",MEXICO|Milenio TV
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/225
+#EXTINF:-1 tvg-id="TeleFrmula.mx" tvg-name="MEXICO|Teleformula" tvg-logo="" group-title="NOTICIAS",MEXICO|Teleformula
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/230
