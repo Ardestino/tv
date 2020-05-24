@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CANAL 5" tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="MEXICO",CANAL 5
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/106
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO|AZTECA UNO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" group-title="MEXICO",MEXICO|AZTECA UNO SD
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/220
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://thepoint.com.mx/www/wp-content/uploads/2017/06/contenidos.png" group-title="MEXICO",IMAGEN TV
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/1513
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Canal De las Estrellas" tvg-logo="https://www.comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="MEXICO",MEX| Canal De las Estrellas
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/1563
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Estrellas HD
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11061
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 1080" tvg-logo="" group-title="MEXICO",CANAL 5 1080
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11063
+#EXTINF:-1 tvg-id="" tvg-name="INGENIO TV " tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/INGENIO.jpg" group-title="MEXICO",INGENIO TV 
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11130
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: ADN40 MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: ADN40 MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12138
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: AZTECA1 MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: AZTECA1 MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12139
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: AZTECA7 MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: AZTECA7 MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12140
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: CANAL ONCE MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: CANAL ONCE MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12141
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: CANAL5 MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: CANAL5 MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12142
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: EL NU9VE MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: EL NU9VE MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12143
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: FOROTV MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: FOROTV MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12145
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: IMAGEN TV MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: IMAGEN TV MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12146
+#EXTINF:-1 tvg-id="" tvg-name="LAT2: LAS ESTRELLAS MX (FHD)" tvg-logo="" group-title="MEXICO",LAT2: LAS ESTRELLAS MX (FHD)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/12147
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS -2" tvg-logo="" group-title="MEXICO",LAS ESTRELLAS -2
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/13400
+#EXTINF:-1 tvg-id="" tvg-name="kebuena-MEXICO" tvg-logo="http://iptvactivador.online:25461/images/5cf5bc1223ae481161c36db2058179b3.png" group-title="MEXICO",kebuena-MEXICO
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/13401
+#EXTINF:-1 tvg-id="" tvg-name="Extremo Grupero (Cintalapa)" tvg-logo="http://iptvactivador.online:25461/images/3cacb8358c97a9ee18884c1421a855ab.png" group-title="MEXICO",Extremo Grupero (Cintalapa)
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/13402
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-name="MEXICO|AZTECA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",MEXICO|AZTECA 7 HD
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/219
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="MEXICO",Canal Once Nacional
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11128
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://canalonce.mx/generales/wp-content/uploads/2019/04/logo_sobre_canal_once.png" group-title="MEXICO",Canal Once Internacional
+http://iptvactivador.online:25461/zutvzutv/zutvzutv/11129
